@@ -57,7 +57,7 @@ These steps initialize a **new local installation**. For an existing installatio
 ### 1. Get the source and create the database
 
 ```bash
-git clone https://github.com/Farhad-Valizadegan/Web-KanbanFlow.git
+git clone https://github.com/Farhad-V/Web-KanbanFlow.git
 cd Web-KanbanFlow
 ```
 
@@ -198,7 +198,7 @@ npm run build
 
 `npm run preview` serves a built frontend for local inspection; it still needs the API and compatible authentication configuration. It is not a production deployment procedure.
 
-The [CI workflow](.github/workflows/ci.yml) configures backend tests on PHP 8.4 and frontend lint, session regression tests, and build on Node.js 24 for pushes and pull requests targeting `main`. Check [GitHub Actions](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/actions) for results tied to the relevant commit.
+The [CI workflow](.github/workflows/ci.yml) configures backend tests on PHP 8.4 and frontend lint, session regression tests, and build on Node.js 24 for pushes and pull requests targeting `main`. Check [GitHub Actions](https://github.com/Farhad-V/Web-KanbanFlow/actions) for results tied to the relevant commit.
 
 Backend SQLite tests do not establish MySQL locking or contention behavior. Frontend lint/build do not verify browser journeys or accessibility; `npm test` covers the protected-route session boundary with controlled query outcomes, rather than complete browser journeys. Use the [manual acceptance checklist](docs/SDLC/06-testing/manual-acceptance-checklist.md), [automated test inventory](docs/SDLC/06-testing/automated-test-inventory.md), and [verification record template](docs/SDLC/06-testing/verification-record-template.md) to record actual results and limitations.
 
