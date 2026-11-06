@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "farhad-valizadegan/kanbanflow",
+    "name": "Farhad-V/kanbanflow",
     "type": "project",
     "description": "KanbanFlow backend API for collaborative project management.",
     "keywords": [
