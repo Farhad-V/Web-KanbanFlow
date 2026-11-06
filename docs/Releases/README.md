@@ -16,10 +16,10 @@ A release record describes a particular source version and its reported validati
 
 | Version | Published UTC date | Main focus | Record |
 | --- | --- | --- | --- |
-| v1.1.0 | 2026-10-07 | Light/Dark/System themes and broader UI/UX. | [Local record](v1.1.0.md) · [GitHub release](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/releases/tag/v1.1.0) |
-| v1.0.2 | 2026-10-06 | Session configuration, analytics refresh, and naming. | [Local record](v1.0.2.md) · [GitHub release](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/releases/tag/v1.0.2) |
-| v1.0.1 | 2026-10-06 | Privacy, authorization, ordering, and interactions. | [Local record](v1.0.1.md) · [GitHub release](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/releases/tag/v1.0.1) |
-| v1.0.0 | 2026-07-25 | Initial portfolio release. | [Local record](v1.0.0.md) · [GitHub release](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/releases/tag/v1.0.0) |
+| v1.1.0 | 2026-10-07 | Light/Dark/System themes and broader UI/UX. | [Local record](v1.1.0.md) · [GitHub release](https://github.com/Farhad-V/Web-KanbanFlow/releases/tag/v1.1.0) |
+| v1.0.2 | 2026-10-06 | Session configuration, analytics refresh, and naming. | [Local record](v1.0.2.md) · [GitHub release](https://github.com/Farhad-V/Web-KanbanFlow/releases/tag/v1.0.2) |
+| v1.0.1 | 2026-10-06 | Privacy, authorization, ordering, and interactions. | [Local record](v1.0.1.md) · [GitHub release](https://github.com/Farhad-V/Web-KanbanFlow/releases/tag/v1.0.1) |
+| v1.0.0 | 2026-07-25 | Initial portfolio release. | [Local record](v1.0.0.md) · [GitHub release](https://github.com/Farhad-V/Web-KanbanFlow/releases/tag/v1.0.0) |
 
 Dates are publication dates recorded by GitHub, not reconstructed implementation or decision dates. The older v0.1.0 tag exists but had no published release in the retrieved release list; no complete release claims are inferred from it.
 
