@@ -13,4 +13,4 @@ From the backend directory, install locked dependencies with `composer install`,
 - `php artisan test` runs the backend suite against in-memory SQLite.
 - `vendor/bin/pint --test` checks PHP formatting.
 
-The Composer package identifier is `farhad-valizadegan/kanbanflow`; the application's display name is **KanbanFlow**.
+The Composer package identifier is `Farhad-V/kanbanflow`; the application's display name is **KanbanFlow**.
