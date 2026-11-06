@@ -6,8 +6,8 @@
 
 **Recorded status: Completed.** The original record states completion after PR #37 merged. Local Git history confirms a09155d as that merge commit.
 
-- [PR #37 — CI and frontend code splitting](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/pull/37)
-- [Completion commit](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/a09155d)
+- [PR #37 — CI and frontend code splitting](https://github.com/Farhad-V/Web-KanbanFlow/pull/37)
+- [Completion commit](https://github.com/Farhad-V/Web-KanbanFlow/commit/a09155d)
 - [Milestone index](../milestones.md)
 
 “Production readiness” here refers to the recorded repository verification and build improvements. It does not establish a production deployment, uptime target, security certification, supported-browser matrix, or verified recovery procedure.
