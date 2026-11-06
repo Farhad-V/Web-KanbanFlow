@@ -36,41 +36,41 @@ These documents are guidance and historical records. They do not establish new p
 
 | Commit | Recorded change |
 | --- | --- |
-| [0d208ff](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/0d208ff) | fix(ui): display board and project metadata without input-style boxes |
-| [549a6b9](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/549a6b9) | docs: add documentation structure and diagram guide |
-| [748712e](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/748712e) | docs: define KanbanFlow project scope with PlantUML diagrams |
-| [7759f7e](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/7759f7e) | docs: improve project definitions and render PlantUML previews |
-| [372c828](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/372c828) | docs: add project management guidance with PlantUML diagrams |
-| [70ca77a](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/70ca77a) | docs: complete release records and organize milestones |
-| [52e93b2](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/52e93b2) | docs: add SDLC phase guides and PlantUML diagrams |
-| [6a815d1](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/6a815d1) | docs: complete sprint guides and templates with PlantUML diagrams |
-| [eda0885](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/eda0885) | docs: complete assumptions and constraints with updated diagram |
-| [ec11f99](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/ec11f99) | docs: complete KanbanFlow overview and product goals |
-| [8a9a872](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/8a9a872) | docs: complete KanbanFlow system context and boundaries |
-| [83b7a63](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/83b7a63) | docs: complete KanbanFlow problem statement and validation goals |
-| [b63e6fa](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/b63e6fa) | docs: complete risk register and success criteria |
-| [95e554d](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/95e554d) | docs: complete scope boundaries and stakeholder responsibilities |
-| [db6b20e](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/db6b20e) | docs: complete product scope boundary and exclusions |
-| [bf8e3c6](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/bf8e3c6) | docs: complete stakeholder and external system definitions |
-| [00a31b9](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/00a31b9) | docs: complete project management index and workflow |
-| [322a50d](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/322a50d) | docs: complete backlog refinement process and acceptance guidance |
-| [9b20425](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/9b20425) | docs: complete decision register and policy closure guidance |
-| [9d81853](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/9d81853) | docs: complete documentation traceability and evidence guidance |
-| [09e0146](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/09e0146) | docs: complete milestone register and evidence boundaries |
-| [a9017b4](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/a9017b4) | docs: complete product backlog outcomes and acceptance criteria |
-| [2d52200](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/2d52200) | docs: complete risk-based quality and verification plan |
-| [576edd0](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/576edd0) | docs: complete release pipeline and publication verification |
-| [f584eb9](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/f584eb9) | docs: complete roadmap priorities and dependency evidence |
-| [f317e35](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/f317e35) | docs: complete sprint workflow and evidence-based closure |
-| [3b5b9f5](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/3b5b9f5) | docs: complete feature traceability and verification mapping |
-| [8707f93](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/8707f93) | docs: complete versioning strategy and release metadata rules |
-| [052644a](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/052644a) | docs: complete milestone 5 collaboration record and diagram |
-| [6e2647c](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/6e2647c) | docs: complete milestone 6 notification record and diagram |
-| [af95282](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/af95282) | docs: complete milestone 7 analytics and assignment record |
-| [e26a586](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/e26a586) | docs: complete milestone 8 CI evidence and readiness boundaries |
-| [12c56df](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/12c56df) | docs: complete release index and delivery evidence guidance |
-| [fbd27c4](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/fbd27c4) | docs: complete release checklist and publication gates |
-| [7ce8e33](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/7ce8e33) | docs: complete release notes template and evidence guidance |
+| [0d208ff](https://github.com/Farhad-V/Web-KanbanFlow/commit/0d208ff) | fix(ui): display board and project metadata without input-style boxes |
+| [549a6b9](https://github.com/Farhad-V/Web-KanbanFlow/commit/549a6b9) | docs: add documentation structure and diagram guide |
+| [748712e](https://github.com/Farhad-V/Web-KanbanFlow/commit/748712e) | docs: define KanbanFlow project scope with PlantUML diagrams |
+| [7759f7e](https://github.com/Farhad-V/Web-KanbanFlow/commit/7759f7e) | docs: improve project definitions and render PlantUML previews |
+| [372c828](https://github.com/Farhad-V/Web-KanbanFlow/commit/372c828) | docs: add project management guidance with PlantUML diagrams |
+| [70ca77a](https://github.com/Farhad-V/Web-KanbanFlow/commit/70ca77a) | docs: complete release records and organize milestones |
+| [52e93b2](https://github.com/Farhad-V/Web-KanbanFlow/commit/52e93b2) | docs: add SDLC phase guides and PlantUML diagrams |
+| [6a815d1](https://github.com/Farhad-V/Web-KanbanFlow/commit/6a815d1) | docs: complete sprint guides and templates with PlantUML diagrams |
+| [eda0885](https://github.com/Farhad-V/Web-KanbanFlow/commit/eda0885) | docs: complete assumptions and constraints with updated diagram |
+| [ec11f99](https://github.com/Farhad-V/Web-KanbanFlow/commit/ec11f99) | docs: complete KanbanFlow overview and product goals |
+| [8a9a872](https://github.com/Farhad-V/Web-KanbanFlow/commit/8a9a872) | docs: complete KanbanFlow system context and boundaries |
+| [83b7a63](https://github.com/Farhad-V/Web-KanbanFlow/commit/83b7a63) | docs: complete KanbanFlow problem statement and validation goals |
+| [b63e6fa](https://github.com/Farhad-V/Web-KanbanFlow/commit/b63e6fa) | docs: complete risk register and success criteria |
+| [95e554d](https://github.com/Farhad-V/Web-KanbanFlow/commit/95e554d) | docs: complete scope boundaries and stakeholder responsibilities |
+| [db6b20e](https://github.com/Farhad-V/Web-KanbanFlow/commit/db6b20e) | docs: complete product scope boundary and exclusions |
+| [bf8e3c6](https://github.com/Farhad-V/Web-KanbanFlow/commit/bf8e3c6) | docs: complete stakeholder and external system definitions |
+| [00a31b9](https://github.com/Farhad-V/Web-KanbanFlow/commit/00a31b9) | docs: complete project management index and workflow |
+| [322a50d](https://github.com/Farhad-V/Web-KanbanFlow/commit/322a50d) | docs: complete backlog refinement process and acceptance guidance |
+| [9b20425](https://github.com/Farhad-V/Web-KanbanFlow/commit/9b20425) | docs: complete decision register and policy closure guidance |
+| [9d81853](https://github.com/Farhad-V/Web-KanbanFlow/commit/9d81853) | docs: complete documentation traceability and evidence guidance |
+| [09e0146](https://github.com/Farhad-V/Web-KanbanFlow/commit/09e0146) | docs: complete milestone register and evidence boundaries |
+| [a9017b4](https://github.com/Farhad-V/Web-KanbanFlow/commit/a9017b4) | docs: complete product backlog outcomes and acceptance criteria |
+| [2d52200](https://github.com/Farhad-V/Web-KanbanFlow/commit/2d52200) | docs: complete risk-based quality and verification plan |
+| [576edd0](https://github.com/Farhad-V/Web-KanbanFlow/commit/576edd0) | docs: complete release pipeline and publication verification |
+| [f584eb9](https://github.com/Farhad-V/Web-KanbanFlow/commit/f584eb9) | docs: complete roadmap priorities and dependency evidence |
+| [f317e35](https://github.com/Farhad-V/Web-KanbanFlow/commit/f317e35) | docs: complete sprint workflow and evidence-based closure |
+| [3b5b9f5](https://github.com/Farhad-V/Web-KanbanFlow/commit/3b5b9f5) | docs: complete feature traceability and verification mapping |
+| [8707f93](https://github.com/Farhad-V/Web-KanbanFlow/commit/8707f93) | docs: complete versioning strategy and release metadata rules |
+| [052644a](https://github.com/Farhad-V/Web-KanbanFlow/commit/052644a) | docs: complete milestone 5 collaboration record and diagram |
+| [6e2647c](https://github.com/Farhad-V/Web-KanbanFlow/commit/6e2647c) | docs: complete milestone 6 notification record and diagram |
+| [af95282](https://github.com/Farhad-V/Web-KanbanFlow/commit/af95282) | docs: complete milestone 7 analytics and assignment record |
+| [e26a586](https://github.com/Farhad-V/Web-KanbanFlow/commit/e26a586) | docs: complete milestone 8 CI evidence and readiness boundaries |
+| [12c56df](https://github.com/Farhad-V/Web-KanbanFlow/commit/12c56df) | docs: complete release index and delivery evidence guidance |
+| [fbd27c4](https://github.com/Farhad-V/Web-KanbanFlow/commit/fbd27c4) | docs: complete release checklist and publication gates |
+| [7ce8e33](https://github.com/Farhad-V/Web-KanbanFlow/commit/7ce8e33) | docs: complete release notes template and evidence guidance |
 
 This table is generated from the local v1.1.0-to-snapshot Git history when preparing this document. Commit titles identify changes; actual diffs and evidence establish their effects.
 
@@ -107,8 +107,8 @@ This documentation update does not bump the package version, create a tag, or pu
 
 ## Evidence and maintenance links
 
-- [Exact inventoried comparison](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/compare/v1.1.0...7ce8e331a136530e43cd60cecf473fb943842472)
-- [Current comparison, which changes as main advances](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/compare/v1.1.0...main)
+- [Exact inventoried comparison](https://github.com/Farhad-V/Web-KanbanFlow/compare/v1.1.0...7ce8e331a136530e43cd60cecf473fb943842472)
+- [Current comparison, which changes as main advances](https://github.com/Farhad-V/Web-KanbanFlow/compare/v1.1.0...main)
 - [Published release index](README.md)
 - [Product backlog](../Project-Management/product-backlog.md)
 - [Decision register](../Project-Management/decision-register.md)
