@@ -6,7 +6,7 @@
 
 **Recorded status: Completed.** The original milestone record states completion after PR #35 merged. Local Git history confirms 1e85e85 as the task-assignee frontend merge commit.
 
-- [Completion commit](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/1e85e85)
+- [Completion commit](https://github.com/Farhad-V/Web-KanbanFlow/commit/1e85e85)
 - [Milestone index](../milestones.md)
 
 No completion date, named reviewer, measured coverage report, or fresh check result is reconstructed here. Historical completion identifies source integration, not production deployment or the absence of later defects.
@@ -36,9 +36,9 @@ The original record included broad backend/frontend verification as an objective
 
 | PR | Historical description | Reference |
 | --- | --- | --- |
-| #33 | Workspace analytics backend | [PR #33](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/pull/33) |
-| #34 | Workspace analytics frontend | [PR #34](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/pull/34) |
-| #35 | Task assignee frontend controls | [PR #35](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/pull/35) |
+| #33 | Workspace analytics backend | [PR #33](https://github.com/Farhad-V/Web-KanbanFlow/pull/33) |
+| #34 | Workspace analytics frontend | [PR #34](https://github.com/Farhad-V/Web-KanbanFlow/pull/34) |
+| #35 | Task assignee frontend controls | [PR #35](https://github.com/Farhad-V/Web-KanbanFlow/pull/35) |
 
 Descriptions are retained from the original document. The completion commit anchors historical integration; current main contains later changes.
 
