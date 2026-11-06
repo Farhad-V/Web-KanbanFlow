@@ -61,7 +61,7 @@ Parent-row locking and task revalidation address specific allocation and stale-s
 
 Seven backend regression tests were added with the initial review fixes, covering private-board visibility and authorized access, viewer exclusion, private task activities, removed comment authors, deletion ordering, and login rate limiting. The totals above refer to the complete suites, not just these regressions.
 
-The [v1.0.1 CI run](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/actions/runs/37528446171) is linked in its release record. Later release notes retain the context of additional checks. No extra raw logs, numerical coverage, reviewer identities, or production verification are inferred here.
+The [v1.0.1 CI run](https://github.com/Farhad-V/Web-KanbanFlow/actions/runs/37528446171) is linked in its release record. Later release notes retain the context of additional checks. No extra raw logs, numerical coverage, reviewer identities, or production verification are inferred here.
 
 ## Follow-up issues and status boundaries
 
