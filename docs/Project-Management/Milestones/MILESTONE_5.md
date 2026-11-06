@@ -6,7 +6,7 @@
 
 **Recorded status: Completed.** The original milestone record states completion after PR #29 merged. The local Git history confirms that cc326c6 is the merge commit for the activity-feed frontend pull request.
 
-- [Completion commit](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/cc326c6)
+- [Completion commit](https://github.com/Farhad-V/Web-KanbanFlow/commit/cc326c6)
 - [Milestone index](../milestones.md)
 
 No completion date, named reviewer, or fresh test result is reconstructed here. This is a historical delivery record, not proof that every collaboration scenario is defect-free on current main.
@@ -43,10 +43,10 @@ The original text mentioned full test coverage, but it did not provide coverage 
 
 | PR | Historical description | Reference |
 | --- | --- | --- |
-| #26 | Task comments backend | [PR #26](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/pull/26) |
-| #27 | Task comments frontend | [PR #27](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/pull/27) |
-| #28 | Workspace activity logging backend | [PR #28](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/pull/28) |
-| #29 | Workspace activity feed frontend | [PR #29](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/pull/29) |
+| #26 | Task comments backend | [PR #26](https://github.com/Farhad-V/Web-KanbanFlow/pull/26) |
+| #27 | Task comments frontend | [PR #27](https://github.com/Farhad-V/Web-KanbanFlow/pull/27) |
+| #28 | Workspace activity logging backend | [PR #28](https://github.com/Farhad-V/Web-KanbanFlow/pull/28) |
+| #29 | Workspace activity feed frontend | [PR #29](https://github.com/Farhad-V/Web-KanbanFlow/pull/29) |
 
 Descriptions are retained from the historical document. The completion commit identifies source integration, not production deployment or customer acceptance.
 
