@@ -6,7 +6,7 @@
 
 **Recorded status: Completed.** The original record states completion after PR #31 merged. Local Git history confirms b02b0b5 as the notifications-frontend merge commit.
 
-- [Completion commit](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/commit/b02b0b5)
+- [Completion commit](https://github.com/Farhad-V/Web-KanbanFlow/commit/b02b0b5)
 - [Milestone index](../milestones.md)
 
 This is a historical delivery record. No completion date, named reviewer, measured coverage percentage, or fresh test result is reconstructed here.
@@ -35,8 +35,8 @@ The original record's complete-test-coverage objective did not include a coverag
 
 | PR | Historical description | Reference |
 | --- | --- | --- |
-| #30 | Notifications backend | [PR #30](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/pull/30) |
-| #31 | Notifications frontend | [PR #31](https://github.com/Farhad-Valizadegan/Web-KanbanFlow/pull/31) |
+| #30 | Notifications backend | [PR #30](https://github.com/Farhad-V/Web-KanbanFlow/pull/30) |
+| #31 | Notifications frontend | [PR #31](https://github.com/Farhad-V/Web-KanbanFlow/pull/31) |
 
 Descriptions come from the original document. Source integration does not imply production deployment or a complete browser verification record.
 
